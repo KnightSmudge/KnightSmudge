@@ -7,4 +7,5 @@
 Sign my [Guestbook!](https://smudgebook.atabook.org/) !! 
 
 </div>
-<p float="left"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png"></p> AAAAAAAAAA <p float="right"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers-flipped.png"></p>
+<p float="left"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png"></p><p float="right"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers-flipped.png"></p>
+ AAAAAAAAAA 
