@@ -7,6 +7,7 @@
   Smudge / He/They / 26 
   ## | [NEOCITIES](https://knightsmudge.neocities.org/) | [TOYHOUSE](https://toyhou.se/KnightSmudge) | [TUMBLR](https://thecourtsknight.tumblr.com/) |
   Sign my [Guestbook!](https://smudgebook.atabook.org/) !! 
+  <p float="left"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/Mr%20Butterfly%20Stamp.gif"></p>
 
 </div>
 <img align ="left" src="https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png">
