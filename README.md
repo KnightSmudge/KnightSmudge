@@ -8,5 +8,5 @@ Sign my [Guestbook!](https://smudgebook.atabook.org/) !!
 
 </div>
 <div align="left">
- ![A stamp reading 'Mr Butterfly' while Mr Butterfly sits on it to the left, flapping its wings, with the happy face](resizech5-flowers-flipped.png)
+ ![A stamp reading 'Mr Butterfly' while Mr Butterfly sits on it to the left, flapping its wings, with the happy face]([resizech5-flowers-flipped.png](https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers-flipped.png))
 </div>
