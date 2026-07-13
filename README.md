@@ -3,6 +3,7 @@
 <div align="center"> 
   
   Smudge / He/They / 26 
-## | [NEOCITIES](https://knightsmudge.neocities.org/) | TOYHOUSE | TUMBLR |
+## | [NEOCITIES](https://knightsmudge.neocities.org/) | [TOYHOUSE](https://toyhou.se/KnightSmudge) | [TUMBLR](https://thecourtsknight.tumblr.com/) |
+Sign my [Guestbook!](https://smudgebook.atabook.org/) !! 
 
 </div>
