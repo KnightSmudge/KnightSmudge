@@ -8,5 +8,5 @@ Sign my [Guestbook!](https://smudgebook.atabook.org/) !!
 
 </div>
 <div align="left">
- YAYAYAY
+ ![A stamp reading 'Mr Butterfly' while Mr Butterfly sits on it to the left, flapping its wings, with the happy face](Mr Butterfly Stamp.gif)
 </div>
