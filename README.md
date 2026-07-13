@@ -3,5 +3,5 @@
 <div align="center"> 
   
   Smudge / He/They / 26 
-<p style="font-size: 100px">NEOCITIES | TOYHOUSE | TUMBLR |</p>
+## H2 | NEOCITIES | TOYHOUSE | TUMBLR |
 </div>
