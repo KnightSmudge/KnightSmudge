@@ -18,4 +18,5 @@
 <p align="center">I'm super open to roleplaying (SFW) and chatting about anything OOC - but I adore sitting around, if you ever see me and want someone to park your butt by, feel free! </p>
 <p align= "center">I have a few other ponies hanging around for Rain World, Ace Attorney & especially my OCS!!</p>
 <p align= "center"> <img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/Atticus%20Nod.gif"><img src="https://github.com/KnightSmudge/KnightSmudge/blob/main/Daylily.gif"></p>
+
  
