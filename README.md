@@ -7,6 +7,4 @@
 Sign my [Guestbook!](https://smudgebook.atabook.org/) !! 
 
 </div>
-<div align="left">
- ![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers-flipped.png) "Logo Title Text 1")
-</div>
+[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")](https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png)
