@@ -3,6 +3,6 @@
 <div align="center"> 
   
   Smudge / He/They / 26 
-## H2 | NEOCITIES | TOYHOUSE | TUMBLR |
+## | [NEOCITIES](https://knightsmudge.neocities.org/) | TOYHOUSE | TUMBLR |
 
 </div>
