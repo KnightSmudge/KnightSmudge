@@ -7,4 +7,4 @@
 Sign my [Guestbook!](https://smudgebook.atabook.org/) !! 
 
 </div>
-! [alt text] (https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png)
+![alt text](https://github.com/KnightSmudge/KnightSmudge/blob/main/resizech5-flowers.png)
